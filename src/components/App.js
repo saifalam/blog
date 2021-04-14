@@ -3,8 +3,8 @@ import PostList from './PostList';
 
 const App = () => {
     return (
-        <div className="ui container app"><PostList/></div>
+        <div className="ui container app"><PostList /></div>
     );
-}
+};
 
 export default App;
